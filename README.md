@@ -1,6 +1,5 @@
 # GreatLearningProject
--------------------------------------------------------------------------------------------------------------------------
- 
+  
 This repository contains the implementation of Assignment 1 from the **Generative AI - NLP** course at Great Learning.
 
 ### 🔍 Project Overview
